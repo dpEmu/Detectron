@@ -204,9 +204,9 @@ _DATASETS = {
     },
     'coco_2017_val': {
         _IM_DIR:
-            _DATA_DIR + '/tmp/val2017',
+            _DATA_DIR + '/coco/tmp/val2017',
         _ANN_FN:
-            _DATA_DIR + '/data/annotations/instances_val2017.json'
+            _DATA_DIR + '/coco/data/annotations/instances_val2017.json'
     }
 }
 
